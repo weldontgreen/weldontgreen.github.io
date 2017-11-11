@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: Getting Started
+    url: /getting-started/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -10,3 +10,37 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+course:
+  - title: Using the system
+    children:
+      - title: Applying to Shadow Academy
+        url: /course/1-application/
+      - title: Claiming a ticket
+        url: /course/2-ticket/
+      - title: Uploading your video
+        url:
+      - title: Finalizing your ticket
+        url:
+      - title: Getting paid
+        url:
+
+  - title: Coaching - Match Feedback
+    children:
+      - title: What is a Match Feedback video?
+        url:
+      - title: Stat explanations
+        url:
+      - title: Structuring your feedback & language
+        url:
+      - title: FAQ
+        url:
+
+  - title: Drills
+    children:
+      - title: What is a drill? Examples and theory
+        url: /course/10-drill/
+      - title: How to craft a drill
+        url:
+      - title: Grading and refining your drill
+        url:
