@@ -1,25 +1,20 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
-course:
   - title: Getting Started
-  children:
-    - title: "Introduction to Shadow Academy"
-    url: /docs/course/1introduction
-    - title: "Match-feedback training"
-    url: /docs/course/2matchfeedback
-    - title: "Drill training"
-    url: /docs/course/3drill
-    - title: "OBS training"
-    url: /docs/course/4obs
-    - title: "Ticket System"
-    url: /docs/course/5ticket
+    url: /getting-started/
+  - title: Blog
+    url: /blog/
+
+getstart:
+  - title: Getting Started
+    children:
+    - title: Introduction to Shadow Academy
+      url: /docs/course/1introduction
+    - title: Match-feedback training
+      url: /docs/course/2matchfeedback
+    - title: Drill training
+      url: /docs/course/3drill
+    - title: OBS training
+      url: /docs/course/4obs
+    - title: Ticket System
+      url: /docs/course/5ticket

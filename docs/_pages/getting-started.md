@@ -1,6 +1,6 @@
 ---
-title: "Getting Started"
-permalink: /getting-started/
+title: Getting Started
+permalink: getting-started.md
 layout: page
 ---
 
