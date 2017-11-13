@@ -16,7 +16,7 @@ course:
     children:
       - title: Applying to Shadow Academy
         url: /course/1-application/
-      - title: Claiming a ticket
+      - title: How to use the ticket system
         url: /course/2-ticket/
       - title: Uploading your video
         url:
