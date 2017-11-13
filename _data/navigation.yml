@@ -2,6 +2,8 @@
 main:
   - title: Getting Started
     url: /getting-started/
+  - title: Stats
+    url: /stats/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
