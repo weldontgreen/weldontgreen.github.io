@@ -37,4 +37,4 @@ I recommend enabling the following settings
 
 ![dashboard](/assets/images/otrs-dashboard.png "dashboard")
 
-Navigate to your settings panel by clicking the <i class="fa fa-gear"></i> gear icon in the corner.
+Next, navigate to your settings panel by clicking the <i class="fa fa-gear"></i> gear icon in the corner.
