@@ -2,8 +2,8 @@
 main:
   - title: Getting Started
     url: /getting-started/
-  - title: Stats
-    url: /stats/
+  - title: Ticket System Login
+    url: http://academy.shadow.gg/otrs/index.pl
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -16,9 +16,9 @@ main:
 course:
   - title: Using the system
     children:
-      - title: Applying to Shadow Academy
+      - title: Apply
         url: /course/1-application/
-      - title: How to use the ticket system
+      - title: Logging In
         url: /course/2-ticket/
       - title: Uploading your video
         url:
