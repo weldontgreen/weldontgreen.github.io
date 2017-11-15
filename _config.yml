@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en"
-title                    : "Shadow Academy"
+title                    : Shadow Academy
 title_separator          : "-"
 name                     : "Weldon Green"
 description              : "Professional esport coaching."

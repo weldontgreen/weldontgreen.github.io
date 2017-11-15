@@ -1,12 +1,12 @@
 ---
-title: Claiming a ticket
+title: How to craft a drill
 permalink: /course/10-drill/
 author_profile: false
 sidebar:
   nav: course
-  toc: true
-  toc_label: How to use the ticket system
-  toc_icon: wrench
+toc: true
+toc_label: How to craft a drill
+toc_icon: wrench
 ---
 
 ## What is a drill?
