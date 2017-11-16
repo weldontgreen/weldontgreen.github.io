@@ -1,17 +1,19 @@
 ---
 title: Shadow Academy ticket system
-permalink: /course/2-ticket/
+permalink: /course/2-access/
 author_profile: false
 sidebar:
   nav: course
 toc: true
-toc_label: How to use the ticket system
+toc_label: Using the Ticket System
 toc_icon: address-card
 ---
 
 ## Access
 
 Access the ticket system here: [http://academy.shadow.gg/otrs/index.pl](http://academy.shadow.gg/otrs/index.pl)
+
+If you are having problems with your login then email me: Weldon (dot) Green (at) dojomadness (dot) com
 
 ![login form](/assets/images/otrs-login.png "login form")
 
@@ -23,13 +25,13 @@ If you do not have 2 or more letters in your first name, or 4 or more letters in
 
 > e.g. My name is William Xi and my username is wixi
 
-## Setting up
+## Settings
 
-When you are logged in you have two administration screens. Your dashboard and your settings panel.
+When you are logged in you have two administration screens. Your `Dashboard` and your `Settings` pages.
 
 **Recommended settings**
 
-I recommend enabling the following settings
+I recommend enabling the following settings on your `Dashboard`
 
 * Running process tickets
 * Out of office
@@ -37,4 +39,11 @@ I recommend enabling the following settings
 
 ![dashboard](/assets/images/otrs-dashboard.png "dashboard")
 
-Next, navigate to your settings panel by clicking the <i class="fa fa-gear"></i> gear icon in the corner.
+Next, navigate to your `Settings` page by clicking the <i class="fa fa-gear"></i> gear icon in the corner. I recommend the following
+
+* Change your password
+* Set Overview Refresh Time to 2 minutes
+* Add "LOL" to your "My Queues" preferred queues
+* Modify which notifications you want to receive via email
+
+![dashboard](/assets/images/otrs-settings.png "settings")

@@ -17,13 +17,13 @@ course:
   - title: Using the system
     children:
       - title: Apply
-        url: /course/1-application/
-      - title: Logging In
-        url: /course/2-ticket/
-      - title: Uploading your video
-        url:
-      - title: Finalizing your ticket
-        url:
+        url: /getting-started/
+      - title: Access
+        url: /course/2-access/
+      - title: Tickets
+        url: /course/3-ticket/
+      - title: Video submission
+        url: /course/4-submit/
       - title: Getting paid
         url:
 

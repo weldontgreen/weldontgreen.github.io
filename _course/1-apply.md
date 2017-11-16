@@ -18,10 +18,9 @@ DOJO’s first line of products, the SUMO apps, are virtual coaching apps for Le
 DOJO's professional analytics products, the SHADOW apps, are used by broadcasters and professional esport teams to gain insights into the game, their opponents, and their own play. [Shadow.gg](http://shadow.gg) provides services for Counter-strike:GO, League of Legends, and DOTA 2.
 
 ![Shadow Academy Logo](/assets/images/site-logo.png)
-
 The Shadow Academy is a coach training portal that enables trainers to sell their services to players in Dojo Madness apps. Our first product, LOLSUMO coaching, provides 1-on-1 training from coach to player inside the LOLSUMO app.
 
-## How to join
+## Shadow Academy criteria
 
 We are looking for:
 
@@ -29,6 +28,8 @@ We are looking for:
 * are interested in training LoL as a job.
 
 Currently we are seeking reliable freelance experts for each role (Top, Jungle, Mid, Bot, Support) although we welcome any level of commitment, even if you can only do several trainings a week.
+
+## Application
 
 The first step is to fill out [this application](https://docs.google.com/forms/d/e/1FAIpQLSdARGz3i3CfZNvI23t9NACgd7XqGgL1XniFlkeByUzIW3AGPA/viewform?usp=sf_link)
 
