@@ -40,9 +40,13 @@ Navigate to Vimeo.com and log in
 
 ![Vimeo login](/assets/images/vimeo-login.png "Vimeo login")
 
+***
+
 Below is the main screen when you enter. Click on `Upload`
 
 ![Vimeo main](/assets/images/vimeo-main.png "Vimeo main")
+
+***
 
 You will be presented with the upload screen. Click on the downward-selector and choose `LOLSUMO Coaching` as the account to upload to. The heading will now say `Upload to LOLSUMO Coaching`
 
@@ -50,13 +54,19 @@ You will be presented with the upload screen. Click on the downward-selector and
 
 ![Vimeo upload](/assets/images/vimeo-upload.png "Vimeo upload")
 
+***
+
 Upload your file, and you will be shown the following screen (see below) as it is uploading. Wait until it completes.
 
 ![Vimeo uploaded](/assets/images/vimeo-uploaded.png "Vimeo uploaded")
 
+***
+
 Click on the green bar that says `Upload complete!` at the bottom of the video (see picture above) and that will open a new url, the video page. The video will be private, and you will be unable to see the video. However, the URL is correct. Copy the URL of this video-page for inclusion in the ticket note.
 
 ![Vimeo videopage-private](/assets/images/vimeo-videopage-private.png "Vimeo videopage private")
+
+***
 
 ## Finalizing the ticket
 
@@ -66,13 +76,17 @@ Select `Note`
 
 ![otrs-ticket-note](/assets/images/otrs-ticket-note.png "OTRS ticket note")
 
+***
+
 Fill out as follows:
 
 * Subject: Match feedback
 * Body: Vimeo.com url
-* Attachement: Upload your video to the note as well
+* Attachement: Upload your video to the note as well **NOTE: This is an optional backup. If it doesn't fit as an attachment then don't upload it. However, retain a copy until the Vimeo.com upload can be confirmed.**
 
 ![otrs-note](/assets/images/otrs-note.png "OTRS note")
+
+***
 
 Submit your note. Then select `Move` and move the ticket to `LOLReviews`
 

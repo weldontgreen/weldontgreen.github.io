@@ -24,8 +24,8 @@ course:
         url: /course/3-ticket/
       - title: Video submission
         url: /course/4-submit/
-      - title: FORTHCOMING Payment
-        url:
+      - title: Payment
+        url: /course/5-payment/
 
   - title: Coaching - Match Feedback
     children:
