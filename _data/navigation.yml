@@ -24,25 +24,25 @@ course:
         url: /course/3-ticket/
       - title: Video submission
         url: /course/4-submit/
-      - title: FORTHCOMING: Payment
+      - title: FORTHCOMING Payment
         url:
 
   - title: Coaching - Match Feedback
     children:
-      - title: FORTHCOMING: Match Feedback
+      - title: FORTHCOMING Match Feedback
         url:
-      - title: FORTHCOMING: LOLSUMO Stats
+      - title: FORTHCOMING LOLSUMO Stats
         url:
-      - title: FORTHCOMING: Coaching language
+      - title: FORTHCOMING Coaching language
         url:
-      - title: FORTHCOMING: FAQ
+      - title: FORTHCOMING FAQ
         url:
 
   - title: Drills
     children:
       - title: What is a drill?
         url: /course/10-drill/
-      - title: FORTHCOMING: Crafting drills
+      - title: FORTHCOMING Crafting drills
         url:
-      - title: FORTHCOMING: Drill Databank
+      - title: FORTHCOMING Drill Databank
         url:
