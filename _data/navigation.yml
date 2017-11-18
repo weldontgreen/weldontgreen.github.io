@@ -26,13 +26,15 @@ course:
         url: /course/4-submit/
       - title: Payment
         url: /course/5-payment/
+      - title: Freelance registration
+        url: /course/6-freelance/
 
   - title: Coaching - Match Feedback
     children:
       - title: FORTHCOMING Match Feedback
         url:
-      - title: FORTHCOMING LOLSUMO Stats
-        url:
+      - title: LOLSUMO Stats
+        url: /course/9-lolsumostats/
       - title: FORTHCOMING Coaching language
         url:
       - title: FORTHCOMING FAQ
